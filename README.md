@@ -460,6 +460,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ## Prerequisite Knowledge
 
+- [ ] **Learn Git** 
+    - https://rogerdudler.github.io/git-guide/index.vi.html
+
 - [ ] **Learn C**
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
     - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
